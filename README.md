@@ -2,9 +2,9 @@
 
 Esta página é parte da etapa inicial de um esforço realizado por voluntários para análisar e mapear o risco de incidentes semelhantes aos de Brumadinho e Mariana.
 
-( https://luizbweb.github.io/docs/docs/barragens_brumadinho.html ) [ Visualização - Barragens e domicílios na região de Brumadinho ]
+[ Visualização - Barragens e domicílios na região de Brumadinho ] ( https://luizbweb.github.io/docs/docs/barragens_brumadinho.html )
 
-( https://luizbweb.github.io/docs/docs/barragens_mg.html ) [ Visualização - Barragens de Minas Gerais ]
+[ Visualização - Barragens de Minas Gerais ] ( https://luizbweb.github.io/docs/docs/barragens_mg.html )
 
-( https://luizbweb.github.io/docs/docs/barragens_brasil.html ) [ Visualização - Barragens no Brasil ]
+[ Visualização - Barragens no Brasil ] ( https://luizbweb.github.io/docs/docs/barragens_brasil.html )
 
