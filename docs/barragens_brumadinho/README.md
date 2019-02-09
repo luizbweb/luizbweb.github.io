@@ -1,8 +1,8 @@
-# Sumário Estatístico  - Barragens do Brasil #
+# Sumário Estatístico  - Barragens de Brumadinho #
 
 Esta página é parte da etapa inicial de um esforço realizado por voluntários para análisar e mapear o risco de incidentes semelhantes aos de Brumadinho e Mariana.
 
-## Análises e visualizações ## 
+### Análises e visualizações ###
 
 * [ Página Incial ]( https://luizbweb.github.io/ )
 
@@ -12,32 +12,9 @@ Esta página é parte da etapa inicial de um esforço realizado por voluntários
 
 * [ Visualização - Barragens no Brasil ]( https://luizbweb.github.io/docs/barragens_brasil )
 
-O conteúdo será atualizado conforme novas análises estiverem disponíveis.  
+O conteúdo será atualizado conforme novas análises estiverem disponíveis.
 
-##  Objetivos deste Sumário ##
+## Visualização - Barragens de Minas Gerais ##
 
-Documentar de maneira simples e objetiva os resultados das análises produzidas.
+[![Visualização - Barragens de Minas Gerais](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png)](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png)
 
-Reunir textos, gráficos, infográficos e visualizações que facilitem a compreensão o estado das barragens no Brasil.
-
-Reunir informações sobre incidentes anteriores que permitam evitar que acidentes futuros o ocorram.
-
-## Sobre o projeto ##
-
-Projeto open source com objetivo principal de identificar os potenciais riscos das barragens. Foram criados mapas dinâmicos baseados em dados abertos, e aqui nesse documento, estamos disponibilizando nossas descobertas e os códigos que foram criados para essas análises, acreditamos que compartilhar essa construção/código pode estimular e acelerar outras iniciativas do mesmo tipo ao redor do Brasil.    
-    
-### Repositório no Github: ###
-
-(https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil)[https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil]
-     
-### Saiba mais sobre o projeto ###
-
-(https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md)[https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md]
-    
-### Kaggle ###
-
-(https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households)[https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households]
-     
-### GoogleColab ###
- 
-(https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82)[https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82]
