@@ -38,4 +38,4 @@ Projeto open source com objetivo principal de identificar os potenciais riscos d
      
 ### GoogleColab ###
  
-[ttps://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82 ]( https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82 )
+[ttps://colab.research.google.com/drive/1BO... ]( https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82 )
