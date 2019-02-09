@@ -1,6 +1,4 @@
-# Sumário Estatístico  - Barragens em Brumadinho #
-
-## Visualização - Barragens Barragens em Brumadinho ##
+# Visualização - Barragens Barragens em Brumadinho #
 
 [![Visualização - Barragens em Brumadinho](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png)](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png)
 

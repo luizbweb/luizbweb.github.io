@@ -1,6 +1,4 @@
-# Sumário Estatístico  - Barragens de Minas Gerais #
-
-## Visualização - Barragens de Minas Gerais ##
+# Visualização - Barragens de Minas Gerais #
 
 [![Visualização - Barragens de Minas Gerais](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Macro.png)](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_MG_Macro.png)
 

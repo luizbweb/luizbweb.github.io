@@ -1,6 +1,4 @@
-# Sumário Estatístico  - Barragens no Brasil #
-
-## Visualização - Barragens no Brasil ##
+# Visualização - Barragens no Brasil #
 
 [![Visualização - Barragens no Brasil](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_Macro_Brasil.png)](https://raw.githubusercontent.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/master/Dataviz/Barragens_Macro_Brasil.png)
 
