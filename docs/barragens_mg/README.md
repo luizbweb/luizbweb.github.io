@@ -4,11 +4,13 @@ Esta página é parte da etapa inicial de um esforço realizado por voluntários
 
 ## Análises e visualizações ## 
 
-* [ Visualização - Barragens e domicílios na região de Brumadinho ]( https://luizbweb.github.io/docs/barragens_brumadinho.html )
+* [ Página Incial ]( https://luizbweb.github.io/ )
 
-* [ Visualização - Barragens de Minas Gerais ]( https://luizbweb.github.io/docs/barragens_mg.html )
+* [ Visualização - Barragens e domicílios na região de Brumadinho ]( https://luizbweb.github.io/docs/barragens_brumadinho )
 
-* [ Visualização - Barragens no Brasil ]( https://luizbweb.github.io/docs/barragens_brasil.html )
+* [ Visualização - Barragens de Minas Gerais ]( https://luizbweb.github.io/docs/barragens_mgl )
+
+* [ Visualização - Barragens no Brasil ]( https://luizbweb.github.io/docs/barragens_brasil )
 
 O conteúdo será atualizado conforme novas análises estiverem disponíveis.  
 
